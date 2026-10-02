@@ -1,0 +1,7 @@
+# =====================================================================
+# Database Configuration Template (SQLite)
+# =====================================================================
+# Copy this file to 'db.properties' in the same folder:
+db.url=jdbc:sqlite:inventory.db
+db.user=
+db.password=
